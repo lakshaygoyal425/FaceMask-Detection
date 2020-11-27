@@ -35,3 +35,4 @@ $ python3 detect_mask_image.py --image images/pic1.jpeg
 3. Detection in real-time video streams
 ```
 $ python3 detect_mask_video.py 
+<br>
