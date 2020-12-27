@@ -1,7 +1,3 @@
-# FaceMask-Detection
-
-## :hourglass: DESCRIPTION
-In the current situation due to Covid-19, there is no proficient face mask detection applications which are presently sought after for transportation implies, thickly populated zones, private regions, enormous scope producers and different endeavors to guarantee security. Additionally, the nonappearance of enormous datasets of 'with_mask' pictures has made this assignment progressively bulky and testing.
 
 
 ## :warning: TECHNOLOGY USED:
